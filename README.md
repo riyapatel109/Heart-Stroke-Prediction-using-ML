@@ -30,7 +30,7 @@ Includes information on dependencies, installation instructions, and any additio
 
 To delve into this project's analysis and model development, ensure you have a Python environment set up. Follow these steps:
   
-1.Launch the Jupyter Notebook titled <span style="font-weight:bold">(Stroke Detection.ipynb)</span> within your Python environment.Alternatively, you can open the notebook directly in Colab for seamless exploration.
+1.Launch the Jupyter Notebook titled `<span style="color:blue">(Stroke Detection.ipynb)</span>` within your Python environment.Alternatively, you can open the notebook directly in Colab for seamless exploration.
 
 2.Execute the notebook cells sequentially to replicate the analysis and construct the model.
 
