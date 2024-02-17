@@ -45,7 +45,15 @@ The accuracy of the machine learning models on the test set is as follows:
 - Decision Tree Classifier: Recorded an accuracy of 90%.
 - k-Nearest Neighbors (KNN): Attained an accuracy of 93.73%.
 
-![Model Accuracy](/images/Model.png)
+🤝**Contributing**
+
+To contribute to this project, you're invited to fork the repository and then submit a pull request with your changes. We welcome both contributions and feedback. If you encounter any issues or have feature requests, please don't hesitate to open an issue on the repository.
+
+**License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
 
 
 
