@@ -8,3 +8,8 @@ Develop a machine learning-based predictive model to assess the risk of heart st
 Utilize demographic, lifestyle, and medical data to train the model for accurate prediction.
 Enable early identification of individuals at high risk of heart strokes to facilitate timely intervention and prevention strategies.
 
+📄**Dataset**
+
+The dataset utilized in this project contains a variety of features pertinent to heart stroke prediction, alongside a continuous target variable indicating the occurrence of strokes. It is sourced from reliable healthcare databases and organized into a pandas DataFrame for analysis.
+
+
