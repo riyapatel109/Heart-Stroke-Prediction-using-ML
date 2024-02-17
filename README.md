@@ -36,6 +36,15 @@ To delve into this project's analysis and model development, ensure you have a P
 
 Feel free to modify and experiment with the code to deepen your understanding of the process and outcomes.
 
+**Results**
+
+The accuracy of the machine learning models on the test set is as follows:
+
+- Logistic Regression: Achieved an accuracy of 93%.
+- Support Vector Machine (SVM): Demonstrated an accuracy of 93%.
+- Decision Tree Classifier: Recorded an accuracy of 90%.
+- k-Nearest Neighbors (KNN): Attained an accuracy of 93.73%.
+
 
 
 
