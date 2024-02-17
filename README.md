@@ -14,15 +14,15 @@ The dataset utilized in this project contains a variety of features pertinent to
 
 📂**Project Components**
 
-1.Jupyter Notebook File (Stroke Detection.ipynb):
+- Jupyter Notebook File (Stroke Detection.ipynb):
 Contains the main code for data preprocessing, model training, evaluation, and result visualization.
 Includes detailed explanations and comments to guide through the analysis and implementation process.
 
-2.Dataset File (Dataset.csv):
+- Dataset File (Dataset.csv):
 CSV file containing the dataset used for heart stroke prediction.
 Includes various features related to demographic, lifestyle, and medical factors, along with the target variable indicating the occurrence of heart strokes.
 
-3.README File (README.md):
+- README File (README.md):
 Provides an overview of the project, including its objectives, dataset description, and instructions for running the Jupyter notebook.
 Includes information on dependencies, installation instructions, and any additional notes or considerations for users.
 
