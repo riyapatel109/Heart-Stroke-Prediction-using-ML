@@ -30,12 +30,12 @@ Includes information on dependencies, installation instructions, and any additio
 
 To delve into this project's analysis and model development, ensure you have a Python environment set up. Follow these steps:
   
-       1.Launch the Jupyter Notebook titled "House_Price_Prediction.ipynb" within your Python environment.
-       Alternatively, you can open the notebook directly in Colab for seamless exploration.
+    1.Launch the Jupyter Notebook titled "House_Price_Prediction.ipynb" within your Python environment.
+    Alternatively, you can open the notebook directly in Colab for seamless exploration.
 
-       2.Execute the notebook cells sequentially to replicate the analysis and construct the model.
+    2.Execute the notebook cells sequentially to replicate the analysis and construct the model.
 
-Feel empowered to tweak and experiment with the code to deepen your understanding of the process and outcomes.
+Feel empowered to modify and experiment with the code to deepen your understanding of the process and outcomes.
 
 
 
