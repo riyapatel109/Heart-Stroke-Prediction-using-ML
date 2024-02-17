@@ -49,7 +49,7 @@ The accuracy of the machine learning models on the test set is as follows:
 
 To contribute to this project, you're invited to fork the repository and then submit a pull request with your changes. We welcome both contributions and feedback. If you encounter any issues or have feature requests, please don't hesitate to open an issue on the repository.
 
-**License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
