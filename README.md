@@ -12,4 +12,18 @@ Enable early identification of individuals at high risk of heart strokes to faci
 
 The dataset utilized in this project contains a variety of features pertinent to heart stroke prediction, alongside a continuous target variable indicating the occurrence of strokes. It is sourced from reliable healthcare databases and organized into a pandas DataFrame for analysis.
 
+📂**Project Components**
+
+Jupyter Notebook File (Stroke_Detection.ipynb):
+Contains the main code for data preprocessing, model training, evaluation, and result visualization.
+Includes detailed explanations and comments to guide through the analysis and implementation process.
+
+Dataset File (Dataset.csv):
+CSV file containing the dataset used for heart stroke prediction.
+Includes various features related to demographic, lifestyle, and medical factors, along with the target variable indicating the occurrence of heart strokes.
+
+README File (README.md):
+Provides an overview of the project, including its objectives, dataset description, and instructions for running the Jupyter notebook.
+Includes information on dependencies, installation instructions, and any additional notes or considerations for users.
+
 
