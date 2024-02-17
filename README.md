@@ -14,7 +14,7 @@ The dataset utilized in this project contains a variety of features pertinent to
 
 📂**Project Components**
 
-1.Jupyter Notebook File (Stroke_Detection.ipynb):
+1.Jupyter Notebook File (Stroke Detection.ipynb):
 Contains the main code for data preprocessing, model training, evaluation, and result visualization.
 Includes detailed explanations and comments to guide through the analysis and implementation process.
 
@@ -25,5 +25,17 @@ Includes various features related to demographic, lifestyle, and medical factors
 3.README File (README.md):
 Provides an overview of the project, including its objectives, dataset description, and instructions for running the Jupyter notebook.
 Includes information on dependencies, installation instructions, and any additional notes or considerations for users.
+
+🚀**Getting Up and Running**
+
+To delve into this project's analysis and model development, ensure you have a Python environment set up. Follow these steps:
+  1.Launch the Jupyter Notebook titled "House_Price_Prediction.ipynb" within your Python environment.
+    Alternatively, you can open the notebook directly in Colab for seamless exploration.
+
+  2.Execute the notebook cells sequentially to replicate the analysis and construct the model.
+
+Feel empowered to tweak and experiment with the code to deepen your understanding of the process and outcomes.
+
+
 
 
